@@ -1,3 +1,20 @@
+## Simple React.js Form
+
+Created a simple app with a class component and two functional components and basic interaction between them.
+
+Below are a few basic features of React applied to this app.
+
+- Working with class vs functional components.
+- Stateful vs stateletss components.
+- Simple two way binding by passing data between components and updating state change.
+- Inline vs using CSS stylesheets
+
+## Technologies
+
+:coffee: **_React.js_**
+
+## Start of React.js Template Instructions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
