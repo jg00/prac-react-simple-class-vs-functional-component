@@ -15,6 +15,8 @@ Created a simple app with a class component and two functional components and ba
 
 :coffee: **_React.js_**
 
+
+
 ## Start of React.js Template Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
