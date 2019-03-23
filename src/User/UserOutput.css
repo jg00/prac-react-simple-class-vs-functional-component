@@ -1,0 +1,6 @@
+.UserOutput {
+  border: 1px dotted green;
+  margin: 20px auto;
+  width: 60%;
+  box-shadow: 2px 2px 2px 3px green;
+}
