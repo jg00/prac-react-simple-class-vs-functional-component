@@ -1,6 +1,6 @@
 ## Simple React.js Form
 
-Created a simple app with a class component and two functional components and basic interaction between them.
+Created a simple app with a class component and two functional components and display basic interaction between them.
 
 Below are a few basic features of React applied to this app.
 

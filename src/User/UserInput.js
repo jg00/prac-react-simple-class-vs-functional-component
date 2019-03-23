@@ -2,7 +2,6 @@ import React from "react";
 
 const UserInput = props => {
   const styling = {
-    "text-align": "center",
     color: "green"
   };
 
