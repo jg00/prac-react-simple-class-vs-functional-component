@@ -2,7 +2,7 @@
 
 Created a simple app with a class component and two functional components and basic interaction between them.
 
-<a href="https://imgflip.com/gif/2wrhdh"><img src="https://i.imgflip.com/2wrhdh.gif" title="Hello Data!!"/></a>
+<a href="https://imgflip.com/gif/2wrhxj"><img src="https://i.imgflip.com/2wrhxj.gif" title="Hello Data!!"/></a>
 
 ## Below are a few basic features of React applied to this app.
 
