@@ -2,7 +2,9 @@
 
 Created a simple app with a class component and two functional components and basic interaction between them.
 
-Below are a few basic features of React applied to this app.
+<a href="https://imgflip.com/gif/2wrhdh"><img src="https://i.imgflip.com/2wrhdh.gif" title="Hello Data!!"/></a>
+
+## Below are a few basic features of React applied to this app.
 
 - Working with class vs functional components.
 - Stateful vs stateletss components.
